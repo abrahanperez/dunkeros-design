@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+#redes{
+	min-height: 30px;
+	background: grey;
+}
+
+
+.orangeshadows{
+	box-shadow: 0px 0px 2px 0px rgba(245,123,0,1);
+}
+
+#dropdown1{
+	background: 
+}
+
+#dropdown1 > li > a{
+	color: #f57c00 ;
+	line-height: 36px;
+}
+
+#dropdown1 > li:hover {
+	background: rgba(0,0,0,.35);
+}
+
+#dropdown1 > li.divider{
+	background: orange;
+}
+
+
+.page-footer{
+	margin-top: 0 !important;
+	border-top: 1px solid  black;
+}
+
+.contentimg{
+	padding: 0 !important;
+	margin-top: 15px; 
+}
+
+.themeimg{
+	width: 100%;
+	margin: auto;
+}
+
+.newtheme{
+	color: white;
+	border-radius: 0.5em;
+	opacity: .85;
+
+}
+
+.newtheme:hover{
+	opacity: 1;
+}
+
+.themes-container{
+	
+}
+
+.theme-tittle{
+	color: orange;
+}
+
+#content-all{
+	margin-bottom: 0; 
+}
+
+#container{
+	margin-bottom: 0;
+	border-left: 1px orange solid;
+	border-right: 1px orange solid;
+}
+
+
+.pagination li.active{
+	background: #212121;
+	
+}
+.pagination li.active a{
+	color: orange;
+}
+.pagination li a{
+	color: rgba(255,255,255,.6)
+}
